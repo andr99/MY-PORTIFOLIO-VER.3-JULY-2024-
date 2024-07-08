@@ -1,0 +1,42 @@
+SECTION 0 - NAV BAR
+    
+    - Logo top-left to the page;
+    - Menu EN-PT being a links;
+
+Section 1 - home page 
+
+    - Logo top-left to the page;
+    - Welcome message, with short info about me and the purpose of the website;
+    - "menu" options in the right side: about-me, projects and contact-me.
+    - Lenguage options menu on the top-right of page.
+
+Section 2 - About Section
+
+    - Logo top-left to the page;
+    - Lenguage options menu on the top-right of page.
+    - about title and a section down the title with a short presentation about me.
+    - I picture of me in the right side.
+    - down I will put 2 options of navigation: go back to home page and foward to the projects.
+
+Section 3 - projects
+
+    - Logo top-left to the page;
+    - Lenguage options menu on the top-right of page.
+    - Project title;
+    - A card with a little description of the project, down of descriptions ill put buttons with the technologies used in the website.
+    - An image of the preview of the website and a button down with the option to access the website;
+    - down I will put 2 options of navigation: go back to about section and foward to the contact-me page.
+
+
+Section 4 - Contact-me
+
+    - Logo top-left to the page;
+    - Lenguage options menu on the top-right of page.
+    - contact-me title;
+    - in the left side I'll put a email icon with my email address;
+    - in the right side I'll put a download icon with a link to download my CV.
+    - down of the email and CV, I'll put 3 icons: LinkedIn, GitHub and Whatapp, all them with a link to be able to reach out me;
+    - down I will put 2 options of navigation: go back to project section and go back to home page;
+
+
+    

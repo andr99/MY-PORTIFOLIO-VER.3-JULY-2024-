@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+ background-image: url(./images/background.jpg);   
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: monospace !important;
+}
+
+
+
+.nav .container-fluid .navbar-brand {
+    padding: 0;
+}
+
+.nav {
+    background: linear-gradient(#535363, #48487f);
+    height: 38px;
+}
+
+.nav .container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav .container-fluid {
+    margin: 0 0 0 5px;
+}
+
+.nav .container-fluid .logos .logo {
+    border-right: 2px solid white;
+}
+
+.nav .container-fluid .logos a {
+    padding: 0 20px;
+}
+
+.nav .container-fluid .logos .logo a {
+    padding-left: 20px;
+} 
+
+.nav .container-fluid .logos a svg {
+    fill: white;
+}
+
+.nav .container-fluid .logos .linkedinlogo {
+    margin-left: 20px;
+}
+
+.nav .container-fluid .lang a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav .container-fluid .lang p {
+    color: white;
+    margin: 0;
+    padding-right: 20px;
+}
+
+.container-fluid .row .iconcmd path {
+    fill: black;
+}
+
+.container-fluid .row .iconimg path {
+    fill: #0a0f2c;
+}
+
+.container-fluid .row .iconfile path {
+    fill: rgb(208, 161, 6);
+}
+
+.container-fluid .row a, p {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 7rem;
+   
+}
+
+.container-fluid .row .icon {
+    padding: 40px 0;
+}
+
+.container-fluid .row .col-3 {
+    margin-top: 100px;
+}
+
+.container-fluid .row .col-9 .box {
+    background-color: black;
+    height: 520px;
+    color: white;
+    padding: 55px 0 0 35px;
+    border-radius: 7px;
+    border-top: 35px solid rgb(70, 66, 66);
+}
+
+.container-fluid .row .col-9 {
+    padding: 100px 0 0 222px;
+}
+
+.container-fluid .row .col-9 .box .aboutphoto {
+    float: right;
+    margin-right: 45px;
+}
+
+.container-fluid .row .col-9 .box span {
+    color: blue;
+}
+
+.container-fluid .row .col-9 .box .yellow {
+    color: yellow;
+}
+
+.container-fluid .row .col-9 .box .window .x {
+    float: right;
+    position: relative;
+    right: 12px;
+    bottom: 83px;
+}
+
+.container-fluid .row .col-9 .box .window .square {
+    float: right;
+    position: relative;
+    right: 20px;
+    bottom: 83px;
+}
+
+.container-fluid .row .col-9 .box .window .dash {
+    float: right;
+    position: relative;
+    right: 28px;
+    bottom: 83px;
+}
+
+
